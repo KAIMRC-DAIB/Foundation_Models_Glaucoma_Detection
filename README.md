@@ -7,9 +7,9 @@ This study aims to evaluate the generalization capability of retinal foundation 
 # Repository Structure
 
 ```text
-├── Notebooks/      # Training, evaluation, and fusion experiments
-├── Weights/        # Saved model weights
-├── Results/        # Final classification results
+├── Notebooks/      
+├── Weights/        
+├── Results/       
 ├── requirements.txt
 └── README.md
 ```
