@@ -1,7 +1,2 @@
-# This folder contains the weights of all experiments:
-
-1- RETFound 
-
-2- VisionFM 
-
-3- The intermediate fusion
+**You can download model weights from the following link:**
+https://drive.google.com/drive/folders/1Zpn4N1ZNHxUmnGWZ32kgB_NPg3R3DTNd?usp=sharing
