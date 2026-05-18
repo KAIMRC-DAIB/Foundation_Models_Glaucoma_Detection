@@ -14,7 +14,7 @@ This study aims to evaluate the generalization capability of retinal foundation 
 └── README.md
 ```
 
-## We provide additional descriptions in each folder that explain its corresponding files and components.
+**We provide additional descriptions in each folder that explain its corresponding files and components.**
  
 
 
