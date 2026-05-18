@@ -34,15 +34,15 @@ We provide:
 - Separate notebooks for the individual RETFound and VisionFM experiments
 - An additional notebook for the fusion-based experiments
 
-All notebooks are available in the `Notebooks/` folder.
+All notebooks are available in the `Notebooks/` folder
 
  
 
 # Model Weights
 
-The final trained model weights are provided in the `Weights/` folder.
+The final trained model weights are provided in the `Weights/` folder
 
 
 # Results
 
-The `Results/` folder contains the final classification performance for each experiment. 
+The `Results/` folder contains the final classification performance for each experiment
