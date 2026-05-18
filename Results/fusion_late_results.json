@@ -1,0 +1,10 @@
+{
+    "retfound_test_auc": 0.9282988285566935,
+    "visionfm_test_auc": 0.9278567744787447,
+    "weighted_fusion_test_auc": 0.9359905695130037,
+    "svm_fusion_test_auc": 0.9111766006041406,
+    "retfound_weight": 0.5044140686522377,
+    "visionfm_weight": 0.4955859313477623,
+    "weighted_fusion_youden_threshold": 0.3879711926008133,
+    "svm_fusion_youden_threshold": 0.10310346456618608
+}
