@@ -2,7 +2,7 @@
 
 This study aims to evaluate the generalization capability of retinal foundation models (RETFound and VisioFM) for automated glaucoma detection using retinal fundus images. The study also investigates the impact of cropping and fusion strategies on model performance.
 
----
+ 
 
 # Repository Structure
 
@@ -15,7 +15,7 @@ This study aims to evaluate the generalization capability of retinal foundation 
 ```
 
 ** We provide additional descriptions in each folder that explain its corresponding files and components.
----
+ 
 
 
 # Dependencies
@@ -26,7 +26,7 @@ To install dependencies:
 pip install -r requirements.txt
 ```
 
----
+ 
 
 # How to Run
 
@@ -36,7 +36,7 @@ We provide:
 
 All notebooks are available in the `Notebooks/` folder.
 
----
+ 
 
 # Model Weights
 
