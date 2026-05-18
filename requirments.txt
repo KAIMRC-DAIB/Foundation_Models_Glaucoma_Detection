@@ -1,0 +1,28 @@
+# RETFound 
+To train RETFound check the requirements in their official repo:
+https://github.com/rmaphoh/RETFound_MAE
+
+# =============================================================================
+ 
+# VisionFM
+To train VisionFM check the requirements in their official repo:
+https://github.com/alibaba-damo-academy/VisionFM
+
+# =============================================================================
+# Fusion-based models 
+# =============================================================================
+Python version==3.9
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+torchaudio==2.7.1+cu118
+numpy==2.0.2
+timm==1.0.25
+pandas==2.3.3
+scikit-learn==1.6.1
+scipy==1.13.1
+Pillow==11.3.0
+opencv-python==4.13.0.92
+matplotlib==3.9.4
+tqdm==4.67.3
+einops==0.8.2
+munkres==1.1.4
