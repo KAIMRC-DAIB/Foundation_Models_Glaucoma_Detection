@@ -8,8 +8,8 @@ This study aims to evaluate the generalization capability of retinal foundation 
 
 ```text
 ├── Notebooks/      
-├── Weights/        
-├── Results/       
+├── Results/        
+├── Weights/       
 ├── requirements.txt
 └── README.md
 ```
