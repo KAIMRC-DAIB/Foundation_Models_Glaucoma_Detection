@@ -1,0 +1,32 @@
+{
+    "test_auc": 0.9282988285566935,
+    "best_val_auc": 0.9073030357249359,
+    "fixed_threshold": 0.52,
+    "fixed_accuracy": 0.8218390804597702,
+    "fixed_sensitivity": 0.8244897959183674,
+    "fixed_specificity": 0.8194945848375451,
+    "fixed_precision": 0.8015873015873016,
+    "fixed_f1": 0.8128772635814889,
+    "youden_threshold": 0.4559706747531891,
+    "youden_accuracy": 0.8084291187739464,
+    "youden_sensitivity": 0.9428571428571428,
+    "youden_specificity": 0.6895306859205776,
+    "youden_precision": 0.7287066246056783,
+    "youden_f1": 0.8220640569395018,
+    "youden_auc_ci": [
+        0.909418330509099,
+        0.9478133058277463
+    ],
+    "youden_accuracy_ci": [
+        0.7758620689655172,
+        0.8409961685823755
+    ],
+    "youden_sensitivity_ci": [
+        0.9142857142857143,
+        0.9673469387755103
+    ],
+    "youden_specificity_ci": [
+        0.6353790613718412,
+        0.7436823104693141
+    ]
+}
