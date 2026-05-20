@@ -20,12 +20,16 @@ This study aims to evaluate the generalization capability of retinal foundation 
 
 # Dependencies
 
-To install dependencies:
+- To install dependencies, for the RETFound and VisionFM models, please refer to their official GitHub repositories:
+
+https://github.com/rmaphoh/RETFound_MAE  
+https://github.com/alibaba-damo-academy/VisionFM  
+
+- For the fusion-based models, the required packages can be installed using:
 
 ```bash
 pip install -r requirements.txt
 ```
-
  
 
 # How to Run
