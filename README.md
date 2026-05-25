@@ -5,7 +5,7 @@ This study aims to evaluate the generalization capability of retinal foundation 
  # Overall Workflow
 
  <p align="center">
-  <img src="Figures/Method.jpg" width="85%">
+  <img src="Figures/Method.JPG" width="85%">
 </p>
 
 # Repository Structure
